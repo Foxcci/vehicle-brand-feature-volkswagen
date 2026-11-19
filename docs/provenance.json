@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "name": "vgg16_gradcam_final.py",
+      "role": "Grad-CAM computational source",
+      "sha256": "82179a4d1ca28e4e5f6ae25877bcc570c7d9d8212d2cc7fe391bcf8fd80fccf6"
+    },
+    {
+      "name": "11_24——灰色预测模型（100点）.ipynb",
+      "role": "Standard GM(1,1) and contour extraction source",
+      "sha256": "20e6522b9ae995dca12890c3ce1d51390cac4b06a8b5c76c7b0eafa622b9eba6"
+    },
+    {
+      "name": "最新vgg_16欧式距离.ipynb",
+      "role": "VGG Euclidean-distance source",
+      "sha256": "d7da61a005b0b09c44507506d0f7fe84eb466da814baed9eb1ac333ed1e219a8"
+    }
+  ],
+  "changes": [
+    "Portable CLI input/output paths; no private absolute paths or notebook outputs.",
+    "Grad-CAM computation preserved; indices default to I1-I6; batch ZIP side effect removed.",
+    "Correct layer names are pool3 and pool4 at features[16] and features[23].",
+    "Euclidean defaults to LA/PA/SA rather than the abandoned five-model extension.",
+    "GM defaults to the numerically stable standard formula, native OpenCV order and periodic cubic display interpolation.",
+    "The legacy original GM solver and light display smoothing are explicit options; numerical changes are disclosed.",
+    "Experimental residual-corrected cell is not included in the standard GM command.",
+    "100 original sample markers are drawn without duplicating the closing point."
+  ]
+}

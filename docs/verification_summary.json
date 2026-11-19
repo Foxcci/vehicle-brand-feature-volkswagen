@@ -1,0 +1,41 @@
+{
+  "gradcam_existing_output_parity": [
+    {
+      "file": "I1_Lavida_front.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "I2_Lavida_back.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "I3_Passat_front.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "I4_Passat_back.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "I5_Sagitar_front.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "I6_Sagitar_back.png",
+      "previous_output_exists": true,
+      "byte_identical": true
+    }
+  ],
+  "component_features_count": 27,
+  "component_feature_max_abs_difference": 0.0,
+  "numerical_regression_tests_passed": 7,
+  "gm_default_solver": "stable",
+  "gm_default_synthetic_end_to_end": "passed",
+  "original_sa_history_status": "not located",
+  "paper_table_parity": "not established with located current input files"
+}

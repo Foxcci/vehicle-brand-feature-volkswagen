@@ -1,0 +1,173 @@
+{
+  "case": "Volkswagen",
+  "vehicle_input_count": 6,
+  "component_input_count": 27,
+  "historical_input_status": "Complete original SA historical input images were not located during packaging",
+  "inputs": [
+    {
+      "stage": "vehicle",
+      "file": "I1_Lavida_front.png",
+      "sha256": "fd0979fd09a82d9d54e54557b61d21d63f3b7de8959ca9321fb9abb4613cc54d"
+    },
+    {
+      "stage": "vehicle",
+      "file": "I2_Lavida_back.png",
+      "sha256": "7ba58c51c245d48310296ff5b3185afaea92181733ffc5fa312d551aef753891"
+    },
+    {
+      "stage": "vehicle",
+      "file": "I3_Passat_front.png",
+      "sha256": "cc709fac74c9b306a5e731f22f5466c87d9d63c7465ea6b6c1416e294defd899"
+    },
+    {
+      "stage": "vehicle",
+      "file": "I4_Passat_back.png",
+      "sha256": "8df8dc35a1b6ba6e121e0c637d4733d3f1132148c163bff3fd6007bbedc845ca"
+    },
+    {
+      "stage": "vehicle",
+      "file": "I5_Sagitar_front.png",
+      "sha256": "d3cba2f5ca460efd3547622158da34231c79f19066129a078ac9f78db38f2e97"
+    },
+    {
+      "stage": "vehicle",
+      "file": "I6_Sagitar_back.png",
+      "sha256": "61e631973e168862d28aae1bb4cdc36bdd4438f8953b05b3830e158dfb2f43fc"
+    },
+    {
+      "stage": "component",
+      "file": "FL_LA.png",
+      "sha256": "30b21c107905798489e6cf18d51fa03c496c780fbf681d148d79c2b8779254ab"
+    },
+    {
+      "stage": "component",
+      "file": "FL_PA.png",
+      "sha256": "68326013afedf7a9629f0fcc852119e336c77255d9a1a0e7ee6647753ae3e52a"
+    },
+    {
+      "stage": "component",
+      "file": "FL_SA.png",
+      "sha256": "460d697901833f0c1e4b08f2b20960fbcbede8b919352f15a3d8533011ea326f"
+    },
+    {
+      "stage": "component",
+      "file": "CL_LA.png",
+      "sha256": "8e01e46070739863b4a7bac8b6c6514abf3245d26d81caccad78a4720da4c08a"
+    },
+    {
+      "stage": "component",
+      "file": "CL_PA.png",
+      "sha256": "11ca921a194bc2b70175cf5f906c4cccf7446bf0e178470de99bc2ccdcf99595"
+    },
+    {
+      "stage": "component",
+      "file": "CL_SA.png",
+      "sha256": "9d870e03383e7798204e479d135277b519b3832a938006fe7d9e34d26d88b589"
+    },
+    {
+      "stage": "component",
+      "file": "UG_LA.png",
+      "sha256": "04aeea47b12d466420a2317994a1913e6f6341ffab21c2a4e4e1db55373d2773"
+    },
+    {
+      "stage": "component",
+      "file": "UG_PA.png",
+      "sha256": "102e927d0b25fbb83b6ad1ef4929a141fafde6d7f5da6216ee79d69a21563512"
+    },
+    {
+      "stage": "component",
+      "file": "UG_SA.png",
+      "sha256": "c0fae657aff0c91d4e95d9132bd2daf9b2350c213a28415020624da999f40358"
+    },
+    {
+      "stage": "component",
+      "file": "LG_LA.png",
+      "sha256": "149f20c2097d80efa6a59c4b6b55559861d4cc2dbe7bb321241d9d0b9d0c8066"
+    },
+    {
+      "stage": "component",
+      "file": "LG_PA.png",
+      "sha256": "c9e662e6c1e0cb31a392fe5fe52968f865bc2f414abeb59e518ee89aa4efe92a"
+    },
+    {
+      "stage": "component",
+      "file": "LG_SA.png",
+      "sha256": "1cd193a75b44d410803085dc60bb5daf9e68ead43da9fe7831c14b4bb3d32cf0"
+    },
+    {
+      "stage": "component",
+      "file": "BD_LA.png",
+      "sha256": "faefab11417d8087d0e84fb0ca9cf47aa432b599f50297a3c51dc657ae266eca"
+    },
+    {
+      "stage": "component",
+      "file": "BD_PA.png",
+      "sha256": "129328d4f0d6934d9468a8dc059305daf992ffe55bad434b72dfc596f602ab79"
+    },
+    {
+      "stage": "component",
+      "file": "BD_SA.png",
+      "sha256": "f3277c7e1b39460180625355c2b0f78268692b566d6500a45e8f3f33f6aade23"
+    },
+    {
+      "stage": "component",
+      "file": "RT_LA.png",
+      "sha256": "73b3ec2c4c312759daf4f594200642fca8a68c540bd11f6a7c2ad202a341b950"
+    },
+    {
+      "stage": "component",
+      "file": "RT_PA.png",
+      "sha256": "c17f023999bcaa1afe6b27899aa400ff34585ac5f16a0ecdebffd4e01b435605"
+    },
+    {
+      "stage": "component",
+      "file": "RT_SA.png",
+      "sha256": "d7439a914670065422abeac710627f6d592ec18271ae9d354d85220c9d38084a"
+    },
+    {
+      "stage": "component",
+      "file": "TL_LA.png",
+      "sha256": "377abe6ab54993465784f512906f2a48ca17a940be43056bbd25fa74a15af1e7"
+    },
+    {
+      "stage": "component",
+      "file": "TL_PA.png",
+      "sha256": "378cac780da8e43db5cbd8871d2de3c9acb3e8b7229fe8fc286e624d280c6b39"
+    },
+    {
+      "stage": "component",
+      "file": "TL_SA.png",
+      "sha256": "fb1d413e13d8236490947359b34269a14a567a67dc6e805d8741a50ed38b1978"
+    },
+    {
+      "stage": "component",
+      "file": "RRR_LA.png",
+      "sha256": "9760cac249f4bce8ecf4e056bb971a1eb157d296f3cd5329457e49a72b0e7490"
+    },
+    {
+      "stage": "component",
+      "file": "RRR_PA.png",
+      "sha256": "21b2a9f434aebb9738322304ffb03c2331bff7868c27e78950258645a0b6cf93"
+    },
+    {
+      "stage": "component",
+      "file": "RRR_SA.png",
+      "sha256": "e91ecef3f42921d5e10385f7ed45a61e80f98afeda53f100a5ba2cb3bf8fa21d"
+    },
+    {
+      "stage": "component",
+      "file": "RVM_LA.png",
+      "sha256": "2d5f2857bc4084037928c5b3da3ca99595fdec085a4fe588a39a0ce2df145636"
+    },
+    {
+      "stage": "component",
+      "file": "RVM_PA.png",
+      "sha256": "85a72205cd426d75fecbddf5649f354509275907f2bc6bfd74727b6990bef459"
+    },
+    {
+      "stage": "component",
+      "file": "RVM_SA.png",
+      "sha256": "3f24ddf9fd14712f66e46614ddb640b170bf439a36201ed1b7235e4c78f6a23d"
+    }
+  ]
+}
