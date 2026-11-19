@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14",
+  "system": "Windows",
+  "machine": "AMD64",
+  "packages": {
+    "torch": "2.15.0+cpu",
+    "torchvision": "0.29.2+cpu",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pillow": "13.0.0",
+    "opencv-python": "5.0.0.93",
+    "matplotlib": "3.11.2"
+  }
+}
